@@ -1,3 +1,4 @@
 # evolution-by-persistence
 
-https://www.biorxiv.org/content/10.1101/2023.09.21.558876v1.abstract
+Supplementary code for Tamre and Parsons (2024):
+https://www.sciencedirect.com/science/article/abs/pii/S0022519324001309
